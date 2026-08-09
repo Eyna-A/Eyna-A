@@ -4,8 +4,6 @@
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF0055&height=220&section=header&text=Eyna%20Shabani&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Effect -->
   <a href="https://github.com/Eyna-A">

@@ -65,11 +65,11 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eyna-A&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+  <!-- Galaxy Cyberpunk Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eyna-A&background=0D0B1D&stroke=7C3AED&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=A855F7&currStreakLabel=FF007F&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
 
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyna-A&layout=compact&theme=cyberpunk&hide_border=true" alt="Eyna's Top Languages" />
+  <!-- Galaxy Cyberpunk Top Languages (Gradient) -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyna-A&layout=compact&bg_color=35,0d0b1d,1a0b36&title_color=00f0ff&text_color=e2e8f0&icon_color=a855f7&hide_border=true" alt="Eyna's Top Languages" />
 
 </div>
 
@@ -79,7 +79,6 @@
   <p><b>Contribution Graph Snake Animation</b></p>
   <img src="https://raw.githubusercontent.com/Eyna-A/Eyna-A/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
 </div>
-
 ---
 
 <div align="center">

@@ -65,8 +65,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eyna-A&show_icons=true&theme=cyberpunk&count_private=true&hide_border=true" alt="Eyna's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyna-A&layout=compact&theme=cyberpunk&hide_border=true" alt="Eyna's Top Languages" />
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eyna-A&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyna-A&layout=compact&theme=cyberpunk&hide_border=true" alt="Eyna's Top Languages" />
 
 </div>
 

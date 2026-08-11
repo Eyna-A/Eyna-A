@@ -61,26 +61,7 @@
 | **[TSE Robo-Advisor](https://github.com/Eyna-A/tse-robo-advisor)** | End-to-end ML pipeline for signal research, statistically-validated backtesting, and portfolio optimization on the Tehran Stock Exchange with a diagnostics-first gate. | `Python` `LightGBM` `SciPy` `SQLite` `React` | Purged K-Fold CV, SLSQP optimization, atomic JSON exports, and stale-ticker guard. |
 | **[Brain Tumor Classification](https://github.com/Eyna-A)** | Custom CNN architecture for classifying brain tumor types from MRI scans. Trained with strict validation techniques. | `PyTorch` `Keras` `OpenCV` `Google Colab` | ~88% test accuracy on Kaggle MRI dataset. Colab-ready pipeline. |
 
----
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-  <!-- Galaxy Cyberpunk Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eyna-A&background=0D0B1D&stroke=7C3AED&ring=00F0FF&fire=FF007F&currStreakNum=00F0FF&sideNums=A855F7&currStreakLabel=FF007F&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
-
-  <!-- Galaxy Cyberpunk Top Languages (Gradient) -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eyna-A&layout=compact&bg_color=35,0d0b1d,1a0b36&title_color=00f0ff&text_color=e2e8f0&icon_color=a855f7&hide_border=true" alt="Eyna's Top Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <p><b>Contribution Graph Snake Animation</b></p>
-  <img src="https://raw.githubusercontent.com/Eyna-A/Eyna-A/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
-</div>
 ---
 
 <div align="center">

@@ -43,7 +43,7 @@
 | :--- | :--- | :--- | :--- |
 | **[Signal Desk – TSE Robo-Advisor](https://github.com/Eyna-A/tse-signal-desk)** | Naive ML on emerging-market data gets fooled by capital increases, trading halts, and non-stationary prices. | `Python` `LightGBM` `FastAPI` `SciPy` | Deflated Sharpe Ratio evaluation catches selection bias — ships honest metrics, not cherry-picked curves. |
 | **[Brain Tumor Classification](https://github.com/Eyna-A)** | Classify tumor type from MRI scans under strict validation. | `PyTorch` `Keras` `OpenCV` | ~88% test accuracy, Colab-ready pipeline. |
-| *Add your next project here* | | | |
+|  | | | |
 
 ---
 
